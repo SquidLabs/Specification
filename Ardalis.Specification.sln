@@ -44,6 +44,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification.EntityFramewo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification.EntityFramework6", "Specification.EntityFramework6", "{327AEBD6-C8A6-4851-BA42-632F8014CFC5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Specification.MongoDB", "Specification.MongoDB", "{201A8554-DD96-4504-8443-46448C6349DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquidLabs.Specification.MongoDB", "Specification.MongoDB\SquidLabs.Specification.MongoDB\SquidLabs.Specification.MongoDB.csproj", "{AB0C27C2-0E5F-44F6-994B-FB0F72E6B992}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +90,10 @@ Global
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0C27C2-0E5F-44F6-994B-FB0F72E6B992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0C27C2-0E5F-44F6-994B-FB0F72E6B992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0C27C2-0E5F-44F6-994B-FB0F72E6B992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0C27C2-0E5F-44F6-994B-FB0F72E6B992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -100,6 +108,7 @@ Global
 		{5AFD1454-E625-451D-A615-CEB7BB09AA65} = {B19F2F64-4B22-48C2-B2F8-7672F84F758D}
 		{37EC09C7-702D-4539-B98D-F67B15E1E6CE} = {327AEBD6-C8A6-4851-BA42-632F8014CFC5}
 		{4BEB4DC4-DE33-4DF1-8A2F-CE76C1D72A4A} = {327AEBD6-C8A6-4851-BA42-632F8014CFC5}
+		{AB0C27C2-0E5F-44F6-994B-FB0F72E6B992} = {201A8554-DD96-4504-8443-46448C6349DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C153A625-42F7-49A7-B99A-6A78B4B866B2}
